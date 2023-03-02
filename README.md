@@ -1,6 +1,6 @@
 # FCC-Python-for-Data-Analystics
 
-Projects submitted for Freecodecamp for their [Data Analytics Certificate](https://www.freecodecamp.org/certification/breanawhittington/data-analysis-with-
+Projects submitted for Freecodecamp for their [Data Analytics Certificate](https://www.freecodecamp.org/certification/breanawhittington/data-analysis-with-python-v7)
 
 Projects:
 [Mean-Variance-Standard Deviation Calculator](https://replit.com/@breanawhittingt/boilerplate-mean-variance-standard-deviation-calculator#mean_var_std.py)
